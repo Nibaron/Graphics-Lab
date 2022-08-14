@@ -4,4 +4,4 @@
 *  open new GLUT project.
 *  set file location to-> minGW folder.
 *  open main.cpp
-*  edit the code, compile and run.
+*  clear it and copy-paste code, compile and run.
