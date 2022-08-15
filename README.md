@@ -5,3 +5,7 @@
 *  set file location to-> minGW folder.
 *  open main.cpp
 *  clear it and copy-paste code, compile and run.
+
+# DX BALL GAME
+* fist copy freeglut file to the codeblock path
+* then open the project and Run.
