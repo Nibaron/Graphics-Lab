@@ -9,3 +9,4 @@
 # DX BALL GAME
 * fist copy freeglut file to the codeblock path
 * then open the project and Run.
+ <img src="Dx_Ball_Game/demo.gif">
